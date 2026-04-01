@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - codespace-obscure-spoon-g4rwv7grrgwhw6rv
 
 jobs:
   build-and-deploy:
